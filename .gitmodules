@@ -1,0 +1,6 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = git@github.com:Ivo-jose/eureka-server.git
+[submodule "ms-customer"]
+	path = ms-customer
+	url = git@github.com:Ivo-jose/ms-customer.git
