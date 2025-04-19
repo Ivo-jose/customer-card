@@ -4,3 +4,6 @@
 [submodule "ms-customer"]
 	path = ms-customer
 	url = git@github.com:Ivo-jose/ms-customer.git
+[submodule "ms-gateway-customer-card"]
+	path = ms-gateway-customer-card
+	url = git@github.com:Ivo-jose/ms-gateway-customer-card.git
