@@ -10,3 +10,6 @@
 [submodule "ms-cards"]
 	path = ms-cards
 	url = git@github.com:Ivo-jose/ms-cards.git
+[submodule "ms-credit-appraiser"]
+	path = ms-credit-appraiser
+	url = git@github.com:Ivo-jose/ms-credit-appraiser.git
